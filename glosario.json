@@ -1,0 +1,324 @@
+{
+  "glosario": [
+    {
+      "palabra": "PELIGRO",
+      "significado": "Condición o situación que tiene el potencial de causar daño, lesión o enfermedad a las personas, daños a la propiedad o al medio ambiente."
+    },
+    {
+      "palabra": "RIESGO",
+      "significado": "Probabilidad de que ocurra un evento peligroso y la severidad de sus posibles consecuencias."
+    },
+    {
+      "palabra": "ATEL",
+      "significado": "Apoyo técnico en la gestión de la seguridad y salud en el trabajo."
+    },
+    {
+      "palabra": "AT – ACCIDENTE DE TRABAJO",
+      "significado": "Suceso imprevisto y no deseado que resulta en daño físico o mental durante la realización de labores relacionadas con el trabajo."
+    },
+    {
+      "palabra": "AC – ACCIDENTE COMÚN",
+      "significado": "Evento inesperado que resulta en lesión o enfermedad no relacionado con las actividades laborales."
+    },
+    {
+      "palabra": "EL – ENFERMEDAD LABORAL",
+      "significado": "Condición médica derivada de la exposición a factores de riesgo inherentes a la actividad laboral."
+    },
+    {
+      "palabra": "EC – ENFERMEDAD COMÚN",
+      "significado": "Enfermedad que no está relacionada con el trabajo, sino con factores externos."
+    },
+    {
+      "palabra": "IT – INCIDENTE DE TRABAJO",
+      "significado": "Evento que no causa daño, pero que tiene el potencial de resultar en un accidente laboral."
+    },
+    {
+      "palabra": "IC – INCIDENTE COMÚN",
+      "significado": "Suceso que no ocasiona daños inmediatos y no está relacionado con el trabajo."
+    },
+    {
+      "palabra": "SALUD",
+      "significado": "Estado de completo bienestar físico, mental y social, no meramente la ausencia de enfermedad."
+    },
+    {
+      "palabra": "SST – SEGURIDAD Y SALUD EN EL TRABAJO",
+      "significado": "Disciplina que busca la prevención de riesgos laborales y la promoción de la salud en el entorno laboral."
+    },
+    {
+      "palabra": "SG-SST – SISTEMA DE GESTIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO",
+      "significado": "Conjunto de políticas, procedimientos y controles que gestionan la seguridad y salud en el trabajo en una organización."
+    },
+    {
+      "palabra": "FURAT",
+      "significado": "Formulario Único de Reporte de Accidentes de Trabajo, documento para reportar accidentes laborales."
+    },
+    {
+      "palabra": "FUREL",
+      "significado": "Formulario Único de Reporte de Enfermedades Laborales, documento para reportar enfermedades derivadas del trabajo."
+    },
+    {
+      "palabra": "TRABAJADOR",
+      "significado": "Persona que presta servicios a un empleador a cambio de una remuneración."
+    },
+    {
+      "palabra": "EMPLEADOR",
+      "significado": "Persona o entidad que contrata trabajadores para la realización de actividades laborales."
+    },
+    {
+      "palabra": "CONTRATISTA",
+      "significado": "Persona o empresa que realiza trabajos o presta servicios a una organización bajo un contrato civil."
+    },
+    {
+      "palabra": "CONTRATANTE",
+      "significado": "Persona o entidad que celebra un contrato con un contratista."
+    },
+    {
+      "palabra": "CONTRATO LABORAL",
+      "significado": "Acuerdo entre empleador y trabajador donde se estipulan las condiciones de empleo."
+    },
+    {
+      "palabra": "CONTRATO CIVIL DE PRESTACIÓN DE SERVICIOS",
+      "significado": "Acuerdo entre dos partes para la prestación de un servicio sin vinculación laboral."
+    },
+    {
+      "palabra": "EPS",
+      "significado": "Entidad Prestadora de Salud que gestiona los servicios de salud de sus afiliados."
+    },
+    {
+      "palabra": "ARL",
+      "significado": "Administradora de Riesgos Laborales, encargada de gestionar riesgos laborales y asegurar contra accidentes de trabajo."
+    },
+    {
+      "palabra": "AFP",
+      "significado": "Administradora de Fondos de Pensiones, encargada de gestionar las pensiones de los afiliados."
+    },
+    {
+      "palabra": "SSS",
+      "significado": "Sistema de Seguridad Social, conjunto de entidades que gestionan la salud, pensiones y riesgos laborales."
+    },
+    {
+      "palabra": "SGRL",
+      "significado": "Sistema General de Riesgos Laborales, conjunto de normas y entidades que protegen al trabajador frente a riesgos laborales."
+    },
+    {
+      "palabra": "PRESTACIONES ECONÓMICAS",
+      "significado": "Compensaciones monetarias a las que tienen derecho los trabajadores en casos específicos como incapacidad."
+    },
+    {
+      "palabra": "PRESTACIONES ASISTENCIALES",
+      "significado": "Servicios de salud y otros beneficios a los que tienen derecho los trabajadores."
+    },
+    {
+      "palabra": "PENSIÓN DE VEJEZ",
+      "significado": "Ingreso mensual vitalicio al que tiene derecho un trabajador al cumplir la edad y semanas cotizadas requeridas."
+    },
+    {
+      "palabra": "PENSIÓN DE INVALIDEZ",
+      "significado": "Pensión otorgada a personas que han perdido la capacidad de trabajar debido a una enfermedad o accidente."
+    },
+    {
+      "palabra": "PCL – PÉRDIDA DE CAPACIDAD LABORAL",
+      "significado": "Disminución permanente o temporal de la capacidad de un trabajador para realizar sus labores."
+    },
+    {
+      "palabra": "PENSIÓN DE SOBREVIVIENTE",
+      "significado": "Ingreso mensual para los beneficiarios de un afiliado fallecido."
+    },
+    {
+      "palabra": "RÉGIMEN DE PRIMA MEDIA",
+      "significado": "Sistema de pensión en el cual las contribuciones van a un fondo común que paga las pensiones de los jubilados."
+    },
+    {
+      "palabra": "RÉGIMEN DE AHORRO INDIVIDUAL",
+      "significado": "Sistema de pensión en el que cada afiliado tiene una cuenta individual donde se acumulan sus aportes."
+    },
+    {
+      "palabra": "ACTO INSEGURO",
+      "significado": "Acción o comportamiento que aumenta la probabilidad de un accidente o incidente en el trabajo."
+    },
+    {
+      "palabra": "CONDICIÓN INSEGURA",
+      "significado": "Situación o entorno de trabajo que tiene el potencial de causar un accidente o incidente."
+    },
+    {
+      "palabra": "EPP – ELEMENTO DE PROTECCIÓN PERSONAL",
+      "significado": "Dispositivos o equipos utilizados por los trabajadores para protegerse de riesgos laborales."
+    },
+    {
+      "palabra": "EPI – ELEMENTO DE PROTECCIÓN INDIVIDUAL",
+      "significado": "Sinónimo de EPP, equipos de protección personal."
+    },
+    {
+      "palabra": "CONDICIÓN DE DISCAPACIDAD",
+      "significado": "Estado en el que una persona tiene una limitación física o mental que afecta su capacidad para trabajar."
+    },
+    {
+      "palabra": "SALUD MENTAL",
+      "significado": "Estado de bienestar en el que la persona puede enfrentar las tensiones normales de la vida y trabajar de manera productiva."
+    },
+    {
+      "palabra": "OIT",
+      "significado": "Organización Internacional del Trabajo, agencia de la ONU que establece normas laborales y promueve derechos en el trabajo."
+    },
+    {
+      "palabra": "OMS",
+      "significado": "Organización Mundial de la Salud, agencia de la ONU que lidera los esfuerzos globales para la salud pública."
+    },
+    {
+      "palabra": "MEDIO AMBIENTE",
+      "significado": "Conjunto de componentes físicos, químicos, biológicos y sociales que rodean a los seres humanos."
+    },
+    {
+      "palabra": "CAMBIO CLIMÁTICO",
+      "significado": "Variaciones a largo plazo en los patrones de temperatura y clima de la Tierra."
+    },
+    {
+      "palabra": "RECICLAJE",
+      "significado": "Proceso de convertir desechos en materiales reutilizables."
+    },
+    {
+      "palabra": "CONTAMINACIÓN",
+      "significado": "Introducción de sustancias nocivas en el medio ambiente, que causa efectos negativos en la salud y el ecosistema."
+    },
+    {
+      "palabra": "CONSTITUCIÓN POLÍTICA DE COLOMBIA",
+      "significado": "Máxima norma del ordenamiento jurídico colombiano, establece los derechos, deberes y organización del Estado."
+    },
+    {
+      "palabra": "Ley 9 de 1979",
+      "significado": "Ley sobre salud pública que regula, entre otros aspectos, la protección del medio ambiente, condiciones de trabajo y vivienda."
+    },
+    {
+      "palabra": "Decreto 1295 de 1994",
+      "significado": "Reglamenta el Sistema General de Riesgos Laborales, estableciendo derechos y obligaciones para empleadores y trabajadores."
+    },
+    {
+      "palabra": "Ley 1562 de 2012",
+      "significado": "Modifica el Sistema General de Riesgos Laborales, incluyendo mejoras en la cobertura y atención a los trabajadores."
+    },
+    {
+      "palabra": "Decreto 1443 de 2014",
+      "significado": "Establece el Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST) en Colombia."
+    },
+    {
+      "palabra": "Resolución 1111 de 2017",
+      "significado": "Adopta los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST)."
+    },
+    {
+      "palabra": "Decreto 1072 de 2015",
+      "significado": "Compila normas laborales, incluyendo las relacionadas con la seguridad y salud en el trabajo."
+    },
+    {
+      "palabra": "Decreto 472 de 2015",
+      "significado": "Establece las condiciones para la evaluación de la exposición ocupacional a riesgos biológicos."
+    },
+    {
+      "palabra": "GTC 45 de 2012",
+      "significado": "Guía Técnica Colombiana para la identificación de peligros y evaluación de riesgos en el trabajo."
+    },
+    {
+      "palabra": "Ley 1010 de 2006",
+      "significado": "Previene, corrige y sanciona el acoso laboral en Colombia."
+    },
+    {
+      "palabra": "Ley 100 de 1993",
+      "significado": "Crea el Sistema de Seguridad Social Integral en Colombia, incluyendo salud, pensiones y riesgos laborales."
+    },
+    {
+      "palabra": "Resolución 0312 de 2019",
+      "significado": "Establece los estándares mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo para pequeñas y medianas empresas."
+    },
+    {
+      "palabra": "Resolución 1401 de 2007",
+      "significado": "Regula la investigación de incidentes y accidentes de trabajo en Colombia."
+    },
+    {
+      "palabra": "Ambiente",
+      "significado": "Condiciones (físicas, económicas, culturales, etc.) de un lugar, un grupo o una época."
+    },
+    {
+      "palabra": "Catastrófico",
+      "significado": "Desastroso, muy malo. Hecho natural o provocado que afecta negativamente a la vida, al sustento o a la industria. Hecho negativo que genera cambios que pueden ser permanentes o reversibles."
+    },
+    {
+      "palabra": "Condiciones",
+      "significado": "Conjunto de circunstancias que determinan el estado de una persona o una cosa. Hacer depender una cosa de una circunstancia particular."
+    },
+    {
+      "palabra": "Conformidad",
+      "significado": "Aprobación, consentimiento. Adecuación o correspondencia de una cosa o situación respecto de otra esperada."
+    },
+    {
+      "palabra": "Correctivo",
+      "significado": "Atenuación de una falta, un defecto o un problema. Medida aplicada para corregir o mejorar de acuerdo a condiciones previamente definidas y que se constituyen como referente o parámetro."
+    },
+    {
+      "palabra": "Epidemiología",
+      "significado": "Recopilación, análisis, interpretación y la difusión continuada y sistemática de datos a efectos de la prevención. Estudio de la distribución y los determinantes de estados o eventos relacionados con resultados no esperados, en particular con enfermedades y sus relaciones con la salud."
+    },
+    {
+      "palabra": "Estructura",
+      "significado": "Conjunto de relaciones que establecen las partes en organización y orden respecto de un todo. Sistema coherente de conceptos que definen un objeto."
+    },
+    {
+      "palabra": "Gestión",
+      "significado": "Actividad administrativa que busca mejorar los procesos de una organización para ver los resultados en la productividad y la competitividad de la misma."
+    },
+    {
+      "palabra": "Indicador",
+      "significado": "Referencia que brinda información cualitativa o cuantitativa, conformada por uno o varios datos, constituidos por percepciones, números, hechos, opiniones o medidas, que permiten seguir el desenvolvimiento de un proceso y su evaluación, y que deben guardar relación con el mismo."
+    },
+    {
+      "palabra": "Legal",
+      "significado": "Relativo a la ley, lo que está conforme a ella, como término opuesto a ilegal, que es lo que no se adecua a la norma jurídica."
+    },
+    {
+      "palabra": "Matriz",
+      "significado": "Una matriz es una colección ordenada de elementos colocados en filas y columnas."
+    },
+    {
+      "palabra": "Organización",
+      "significado": "Una organización es un sistema diseñado para alcanzar ciertas metas y objetivos. Estos sistemas pueden, a su vez, estar conformados por otros subsistemas relacionados que cumplen funciones específicas. En otras palabras, una organización es un grupo social formado por personas, tareas y administración que interactúan en el marco de una estructura sistemática para cumplir con sus objetivos."
+    },
+    {
+      "palabra": "Peligro",
+      "significado": "Fuente, situación o acto con potencial de causar daño en la salud de los trabajadores, en los equipos o en las instalaciones."
+    },
+    {
+      "palabra": "Política",
+      "significado": "Es la orientación o directriz que debe ser divulgada, entendida y acatada por todos los miembros de la organización, en ella se contemplan las normas y responsabilidades de cada área de la organización. Las políticas son guías para orientar la acción; son lineamientos generales a observar en la toma de decisiones, sobre algún problema que se repite una y otra vez dentro de una organización. En este sentido, las políticas son criterios generales de ejecución que complementan el logro de los objetivos y facilitan la implementación de las estrategias."
+    },
+    {
+      "palabra": "Preventivo",
+      "significado": "Es la disposición que se hace de forma anticipada para minimizar un riesgo. El objetivo de prevenir es lograr que un perjuicio eventual no se concrete."
+    },
+    {
+      "palabra": "Proactiva",
+      "significado": "Es una actitud en la que el sujeto u organización asume el pleno control de su conducta de modo activo, lo que implica la toma de iniciativa en el desarrollo de acciones creativas y audaces para generar mejoras, antes de que sean evidentes los daños."
+    },
+    {
+      "palabra": "Proceso",
+      "significado": "Un proceso es una secuencia de pasos dispuesta con algún tipo de lógica que se enfoca en lograr algún resultado específico."
+    },
+    {
+      "palabra": "Reactiva",
+      "significado": "Es una actitud en la que el sujeto u organización asume acciones cuando ya son evidentes los perjuicios."
+    },
+    {
+      "palabra": "Salud",
+      "significado": "La salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades."
+    },
+    {
+      "palabra": "Seguridad",
+      "significado": "Protección ante la carencia de peligros externos que afecten negativamente la calidad de vida."
+    },
+    {
+      "palabra": "Sistema",
+      "significado": "Es un conjunto de partes o elementos organizados y relacionados que interactúan entre sí para lograr un objetivo. Los sistemas reciben entradas y proveen salidas."
+    },
+    {
+      "palabra": "Valoración",
+      "significado": "Consiste en emitir un juicio sobre la tolerancia o no del riesgo estimado."
+    }
+  ]
+}

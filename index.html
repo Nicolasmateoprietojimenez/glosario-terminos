@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glosario Interactivo</title>
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="section">
+        <div class="izquierda">
+            <h1>GLOSARIO SOBRE SALUD Y SEGURIDAD EN EL TRABAJO</h1>
+            <p>Bienvenido a nuestro portal de terminos y leyes que hablan sobre la seguridad y salud en el trabajo en Colombia.</p>
+            <!-- barra de busqueda -->
+            <div class="search-container">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" id="busqueda" placeholder="Buscar...">
+              </div>
+        </div>
+        
+        
+        <div class="derecha">
+            <ul id="glosario-lista"></ul>
+    
+        <!-- botones para la paginación -->
+        <div id="paginacion" class="paginacion"></div>
+        </div>
+        
+    
+        <!-- Ventana modal donde se mostrara el significado de cada palabra -->
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2 id="modal-palabra"></h2>
+                <p id="modal-significado"></p>
+            </div>
+        </div>
+    </section>
+   
+
+    <script src="script.js"></script>
+    <script src="https://kit.fontawesome.com/381592b739.js" crossorigin="anonymous"></script>
+</body>
+
+
+</html>
